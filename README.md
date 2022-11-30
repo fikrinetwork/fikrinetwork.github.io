@@ -1,2 +1,0 @@
-# fikrinetwork.github.io
-website
